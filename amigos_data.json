@@ -1,0 +1,89 @@
+[
+  {
+    "tipo": "AmigoRegular",
+    "nombre": "Carlos",
+    "cumpleanos": "10/06/1995",
+    "gustos": [
+      "deportes",
+      "musica"
+    ],
+    "recuerdos": [
+      "viaje a la playa"
+    ],
+    "anecdotas": [
+      "nos reimos mucho"
+    ]
+  },
+  {
+    "tipo": "AmigoRegular",
+    "nombre": "Ricardo",
+    "cumpleanos": "10/06/1999",
+    "gustos": [
+      "deportes"
+    ],
+    "recuerdos": [
+      "viaje a la playa"
+    ],
+    "anecdotas": [
+      "nos reimos poco"
+    ]
+  },
+  {
+    "tipo": "AmigoRegular",
+    "nombre": "Dani",
+    "cumpleanos": "10/06/1999",
+    "gustos": [
+      "deportes"
+    ],
+    "recuerdos": [
+      "viaje a la playa"
+    ],
+    "anecdotas": [
+      "nos reimos poco"
+    ]
+  },
+  {
+    "tipo": "AmigoRegular",
+    "nombre": "Braulio",
+    "cumpleanos": "10/06/1999",
+    "gustos": [
+      "deportes"
+    ],
+    "recuerdos": [
+      "viaje a la playa"
+    ],
+    "anecdotas": [
+      "nos reimos poco"
+    ]
+  },
+  {
+    "tipo": "AmigoRegular",
+    "nombre": "Stido",
+    "cumpleanos": "10/06/1995",
+    "gustos": [
+      "deportes",
+      "musica"
+    ],
+    "recuerdos": [
+      "viaje a la playa"
+    ],
+    "anecdotas": [
+      "nos reimos mucho"
+    ]
+  },
+  {
+    "tipo": "AmigoRegular",
+    "nombre": "Edgar Rafael",
+    "cumpleanos": "10/06/1995",
+    "gustos": [
+      "deportes",
+      "musica"
+    ],
+    "recuerdos": [
+      "viaje a la playa"
+    ],
+    "anecdotas": [
+      "nos reimos mucho"
+    ]
+  }
+]
